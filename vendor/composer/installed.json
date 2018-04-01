@@ -1,0 +1,47 @@
+[
+    {
+        "name": "eoghanobrien/php-simple-mail",
+        "version": "1.5.0",
+        "version_normalized": "1.5.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/eoghanobrien/php-simple-mail.git",
+            "reference": "c9d6bf3e768c0b7ac3fd3f079249f8bfb84ffcfb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/eoghanobrien/php-simple-mail/zipball/c9d6bf3e768c0b7ac3fd3f079249f8bfb84ffcfb",
+            "reference": "c9d6bf3e768c0b7ac3fd3f079249f8bfb84ffcfb",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.0"
+        },
+        "time": "2015-11-13 08:40:58",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "class.simple_mail.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Eoghan O'Brien",
+                "email": "eoghan@eoghanobrien.com",
+                "homepage": "http://www.eoghanobrien.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "Simple PHP 5 Email Class with Chainable Methods",
+        "homepage": "https://github.com/eoghanobrien/php-simple-mail",
+        "keywords": [
+            "email",
+            "php5"
+        ]
+    }
+]
